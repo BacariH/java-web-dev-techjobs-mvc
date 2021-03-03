@@ -29,6 +29,10 @@ table.job-listing {
     width: 80%;
 }
 
+tbody{
+    margin-bottom: 10px;
+}
+
 table.job-listing td:first-child {
     font-weight: bold;
 }
